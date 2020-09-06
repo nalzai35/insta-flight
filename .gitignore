@@ -1,0 +1,8 @@
+vendor/
+datas/*
+datas2/*
+.DS_Store
+insta-flight.zip
+insta-flight*.zip
+# Local Netlify folder
+.netlify
