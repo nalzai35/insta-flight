@@ -1,0 +1,121 @@
+a:260:{i:0;a:1:{s:2:"id";s:19:"2391072237441823301";}i:1;a:1:{s:10:"short_code";s:11:"CEuy4gRBLJF";}i:2;a:1:{s:12:"created_time";i:1599258044;}i:3;a:1:{s:7:"caption";s:587:"RASHOMON - BTS
+1st schedule of shoot.
+.
+Stay tuned guys...
+.
+Writer & Director - @first_of_the_worst
+DOP - @shashank_2604
+Cinematographer - @vikassolanki5122 
+Production - @ekjaltachirag 
+Actors - @priyeshshrimal @rajatsharma__25 @mukuljoshi24
+.
+.
+#behindthescenes #bts #indiefilm #film #filmmaking #filmmaker #shortfilm #filmfestival #director #cinematography #independentfilm #actor #movie #supportindiefilm #cinema #filmmakers #indiefilmmaking #indiefilmmaker #movies #womeninfilm #producer #behindthescenes #filmproduction #indie #cinematographer #setlife #actorslife #actress #films";}i:4;a:1:{s:14:"comments_count";i:0;}i:5;a:1:{s:11:"likes_count";i:1;}i:6;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuy4gRBLJF";}i:7;a:1:{s:5:"image";s:250:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118812798_1221999771510368_8840468422082543222_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=s8GocENruOAAX9OerBx&oh=15058c5bb5d63ad5c11d03e3873d3773&oe=5F7D3C09";}i:8;a:1:{s:4:"type";s:7:"sidecar";}i:9;a:1:{s:8:"owner_id";i:28334422059;}i:10;a:1:{s:14:"owner_username";s:0:"";}i:11;a:1:{s:14:"owner_fullname";s:0:"";}i:12;a:1:{s:9:"owner_pic";s:0:"";}i:13;a:1:{s:2:"id";s:19:"2391071449458421523";}i:14;a:1:{s:10:"short_code";s:11:"CEuytCZjC8T";}i:15;a:1:{s:12:"created_time";i:1599257950;}i:16;a:1:{s:7:"caption";s:890:"Last year at this time life was so different. My summer was occupied with visits to the beach and super long hours on set surrounded by great people. I loved my days off because I would get to take my son, and my niece, nephew and my two dogs to the beach. We spent countless hours running around and being buried under the sand. We had so much fun! This year, I am grateful for being where I am. I am grateful for the lessons I have learned, I am grateful for all the changes I had to make and will be making, I am grateful for learning how to take care of myself and learning about self love. I am learning so much about myself and others. So, friends hang in there take care of yourselves and stay positive and remember life is good. We will be alright! 
+
+Photo credit by Ada Trang Mask by @guise_etiquette 
+
+#lifestyle #la #citylife #wegonnabealright #facemask #bts #setlife #photoshoot";}i:17;a:1:{s:14:"comments_count";i:0;}i:18;a:1:{s:11:"likes_count";i:1;}i:19;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuytCZjC8T";}i:20;a:1:{s:5:"image";s:249:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118730529_172453134350555_3102417929724139363_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=111&_nc_ohc=EiFvXx0FQbIAX80udMP&oh=32d7bf604cfbf709aa0f67e82df2a78d&oe=5F7A9A8A";}i:21;a:1:{s:4:"type";s:5:"image";}i:22;a:1:{s:8:"owner_id";i:194930238;}i:23;a:1:{s:14:"owner_username";s:0:"";}i:24;a:1:{s:14:"owner_fullname";s:0:"";}i:25;a:1:{s:9:"owner_pic";s:0:"";}i:26;a:1:{s:2:"id";s:19:"2391071327523369870";}i:27;a:1:{s:10:"short_code";s:11:"CEuyrQ1pvOO";}i:28;a:1:{s:12:"created_time";i:1599257935;}i:29;a:1:{s:7:"caption";s:494:"Man...It was almost a year since the last time I was in a ring and of course @owenmyre_official brings me back in on a week before that anniversary. Thanks dude.  4Teen - The Movie
+-
+-
+-
+#filming #film #filmmaking #filmmaker #cinematography #director #actor #movie #behindthescenes #photography #setlife #movies #cinema #onset #cinematographer #filmproduction #video #films #production #videography #filmmakers #videoproduction #acting #filmphotography #camera #art #bts #filmcrew #ring #boxing";}i:30;a:1:{s:14:"comments_count";i:0;}i:31;a:1:{s:11:"likes_count";i:2;}i:32;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuyrQ1pvOO";}i:33;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118794205_317694465956801_1744759244813789834_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=105&_nc_ohc=HohZTP2uk0UAX_me9xn&oh=8b9438453ccd7ab48d312998851188ef&oe=5F7D662F";}i:34;a:1:{s:4:"type";s:7:"sidecar";}i:35;a:1:{s:8:"owner_id";i:4715025078;}i:36;a:1:{s:14:"owner_username";s:0:"";}i:37;a:1:{s:14:"owner_fullname";s:0:"";}i:38;a:1:{s:9:"owner_pic";s:0:"";}i:39;a:1:{s:2:"id";s:19:"2391071038425110807";}i:40;a:1:{s:10:"short_code";s:11:"CEuynDmDZkX";}i:41;a:1:{s:12:"created_time";i:1599257922;}i:42;a:1:{s:7:"caption";s:111:"Queen👑❣ @hazalkaya @enisarikan #instastory #bendenneolur #film #setlife #backstage #peliculas #turkishfilm";}i:43;a:1:{s:14:"comments_count";i:0;}i:44;a:1:{s:11:"likes_count";i:2;}i:45;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuynDmDZkX";}i:46;a:1:{s:5:"image";s:238:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/118709800_166478965029944_2883718083003581745_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=xWtd869iuDIAX8S8xzT&oh=d2bcb3716f50992319ff536d02df1bad&oe=5F552FBA";}i:47;a:1:{s:4:"type";s:5:"video";}i:48;a:1:{s:8:"owner_id";i:13060656145;}i:49;a:1:{s:14:"owner_username";s:0:"";}i:50;a:1:{s:14:"owner_fullname";s:0:"";}i:51;a:1:{s:9:"owner_pic";s:0:"";}i:52;a:1:{s:2:"id";s:19:"2391070317247526424";}i:53;a:1:{s:10:"short_code";s:11:"CEuycj8hPYY";}i:54;a:1:{s:12:"created_time";i:1599257815;}i:55;a:1:{s:7:"caption";s:21:"#pdlife #setlife #fs7";}i:56;a:1:{s:14:"comments_count";i:0;}i:57;a:1:{s:11:"likes_count";i:4;}i:58;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuycj8hPYY";}i:59;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118702244_150883426699601_4686840704454451943_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=105&_nc_ohc=hAXnqs7CQ2gAX80_ki2&oh=336638896b9e663bd1d886b469ba2471&oe=5F7E279E";}i:60;a:1:{s:4:"type";s:5:"image";}i:61;a:1:{s:8:"owner_id";i:1603424416;}i:62;a:1:{s:14:"owner_username";s:0:"";}i:63;a:1:{s:14:"owner_fullname";s:0:"";}i:64;a:1:{s:9:"owner_pic";s:0:"";}i:65;a:1:{s:2:"id";s:19:"2391069952334429209";}i:66;a:1:{s:10:"short_code";s:11:"CEuyXQGAPwZ";}i:67;a:1:{s:12:"created_time";i:1599257772;}i:68;a:1:{s:7:"caption";s:387:"So wonderful working with photographer @siobhanwebb17 @mrp_plus on this! Check her out she is so dope 🙌🏾
+
+#Repost @mrp_plus
+・・・
+“Being an actress liberated and healed me in many ways, allowing me to express my inner most vulnerable places. Building me from the inside out!” @moniqueleagall 
+
+#investinyourcraft #actress #actor #film #tv #headshots #drama #comedy #setlife";}i:69;a:1:{s:14:"comments_count";i:1;}i:70;a:1:{s:11:"likes_count";i:6;}i:71;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuyXQGAPwZ";}i:72;a:1:{s:5:"image";s:250:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118775917_2819522758279424_5380184924113533770_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=MCFTLMfC3e4AX_uiU7Y&oh=a3259a48113c3f03e15f20275cf16d6d&oe=5F7C1288";}i:73;a:1:{s:4:"type";s:5:"image";}i:74;a:1:{s:8:"owner_id";i:210516189;}i:75;a:1:{s:14:"owner_username";s:0:"";}i:76;a:1:{s:14:"owner_fullname";s:0:"";}i:77;a:1:{s:9:"owner_pic";s:0:"";}i:78;a:1:{s:2:"id";s:19:"2391069480679111678";}i:79;a:1:{s:10:"short_code";s:11:"CEuyQY1J_v-";}i:80;a:1:{s:12:"created_time";i:1599257718;}i:81;a:1:{s:7:"caption";s:441:"Fun fact: Arielle loves cats! Want to know more about her? Ask her anything in the comments!⠀⠀⠀⠀⠀⠀⠀⠀⠀
+.⠀⠀⠀⠀⠀⠀⠀⠀⠀
+.⠀⠀⠀⠀⠀⠀⠀⠀⠀
+.⠀⠀⠀⠀⠀⠀⠀⠀⠀
+#weareepicvideo #filmcrew #meettheteam #videography #videographer #filmmaker #filmmakers #filmmakinglife #videoproduction #behindthescenes #setlife #filmlife #production #filmproduction #productionlife #set #filmmaking #contentcreator";}i:82;a:1:{s:14:"comments_count";i:0;}i:83;a:1:{s:11:"likes_count";i:1;}i:84;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuyQY1J_v-";}i:85;a:1:{s:5:"image";s:238:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118702621_197678041710196_7491905410336726075_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=104&_nc_ohc=mgpCX7i1dTAAX8eRLPy&oh=98d2407bb8a409c716dd5394feb5e5be&oe=5F7BDE1B";}i:86;a:1:{s:4:"type";s:5:"image";}i:87;a:1:{s:8:"owner_id";i:13511004954;}i:88;a:1:{s:14:"owner_username";s:0:"";}i:89;a:1:{s:14:"owner_fullname";s:0:"";}i:90;a:1:{s:9:"owner_pic";s:0:"";}i:91;a:1:{s:2:"id";s:19:"2391068936793216664";}i:92;a:1:{s:10:"short_code";s:11:"CEuyIeTB9aY";}i:93;a:1:{s:12:"created_time";i:1599257650;}i:94;a:1:{s:7:"caption";s:347:"Meet my friends 💪🏾
+#swingkidsmovie 🍿 on @youtube @amazonprimevideo and @itunes 🎥🎬❤️
+
+#swingkidsmovie
+#swingkids #koreancinema 
+#koreanfilm #southkorea #seoul 
+#kyungsoo #foreignfilm #movienight 
+#dohkyungsoo #actorslife
+#exo #setlife #filmmaking
+#weareoneexo #kpop #actor #actors #actorsingerdancer 
+#tapdance #filmlife #setlife";}i:95;a:1:{s:14:"comments_count";i:5;}i:96;a:1:{s:11:"likes_count";i:45;}i:97;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuyIeTB9aY";}i:98;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118736663_172720961030391_5945247691720388442_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=103&_nc_ohc=KLClWGtfiY8AX-Wpw3t&oh=679b0f0f0e5190bed482c08d5a4ade9b&oe=5F7D3D86";}i:99;a:1:{s:4:"type";s:5:"image";}i:100;a:1:{s:8:"owner_id";i:1267593262;}i:101;a:1:{s:14:"owner_username";s:0:"";}i:102;a:1:{s:14:"owner_fullname";s:0:"";}i:103;a:1:{s:9:"owner_pic";s:0:"";}i:104;a:1:{s:2:"id";s:19:"2391067457319512209";}i:105;a:1:{s:10:"short_code";s:11:"CEuxy8bhqiR";}i:106;a:1:{s:12:"created_time";i:1599257474;}i:107;a:1:{s:7:"caption";s:451:"New video 
+
+Director : @francisfilms_
+
+Music video : @machin_rd
+.
+.
+ #moonlight #logo #movie #efects #makingofmovies #cinema #movies #makingof #camera #filmmaker  #vfx #cinemacamera @movie.effects.vfx #director  #cinematography #directorlife #beauty #beautytips  #shootlife #setlife #mumbai @anuj_samtani @vfxnews • @cgzamir #vfxnews #digitalart #lifeonset  #boltcinebot  #maya #redshift #setlife #vfxartist  #houdinifx #lifeonset #cgi #visualeffect";}i:108;a:1:{s:14:"comments_count";i:0;}i:109;a:1:{s:11:"likes_count";i:3;}i:110;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuxy8bhqiR";}i:111;a:1:{s:5:"image";s:238:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/118807970_599924110676078_5900817917959034256_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=102&_nc_ohc=7mE32uFaAJsAX9b4N_k&oh=1f079e96abbcaa726a74012e9d0db691&oe=5F7C0202";}i:112;a:1:{s:4:"type";s:5:"image";}i:113;a:1:{s:8:"owner_id";i:1538629743;}i:114;a:1:{s:14:"owner_username";s:0:"";}i:115;a:1:{s:14:"owner_fullname";s:0:"";}i:116;a:1:{s:9:"owner_pic";s:0:"";}i:117;a:1:{s:2:"id";s:19:"2391066826622089582";}i:118;a:1:{s:10:"short_code";s:11:"CEuxpxDB7lu";}i:119;a:1:{s:12:"created_time";i:1599257399;}i:120;a:1:{s:7:"caption";s:530:"I think I held off long enough from posting this, but here’s some gaffer work from almost a year ago. I can’t believe I’ve been working for over a year now. I’ve met so many talented people along the way. Some set ups pushed the crew to get creative and think outside the box. This one got me using tissue paper as diffusion and hella black wrap for barn doors. @aboutthatlife_theseries 
+DP: @lenalevi_cine 
+B cam: @chaz.s.fresco 
+Grip: @mikelalphonse 
+#set #lighting #film #setlife #kinoflo #quasarscience #gaffer #neewer";}i:121;a:1:{s:14:"comments_count";i:0;}i:122;a:1:{s:11:"likes_count";i:5;}i:123;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuxpxDB7lu";}i:124;a:1:{s:5:"image";s:239:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/118733492_3372011103024183_7607608089574697146_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=103&_nc_ohc=rzu_LzlzkdIAX8OCnPz&oh=ef99d7cd19f65a691c03a901f796fcc9&oe=5F7E12ED";}i:125;a:1:{s:4:"type";s:7:"sidecar";}i:126;a:1:{s:8:"owner_id";i:3742804021;}i:127;a:1:{s:14:"owner_username";s:0:"";}i:128;a:1:{s:14:"owner_fullname";s:0:"";}i:129;a:1:{s:9:"owner_pic";s:0:"";}i:130;a:1:{s:2:"id";s:19:"2391066439882540954";}i:131;a:1:{s:10:"short_code";s:11:"CEuxkI3joea";}i:132;a:1:{s:12:"created_time";i:1599257377;}i:133;a:1:{s:7:"caption";s:946:"📹@djulsu 
+Kesehatan itu sangat penting, apalagi di masa sekarang ini. Kesehatan tubuh pun dapat dipengaruhi oleh pikiran. Jika pikiran kita hanya terisi hoaks-hoaks maka akan memunculkan kecemasan yang pada akhirnya melahirkan kekacauan.
+
+Oleh karena itu, dalam bermedia sosial kita harus mencari referensi dari situs terverifikasi. Selain itu, kita juga harus mengecek kebenaran dan berdiskusi di grup anti hoaks.
+
+Karena apa yang kita baca sangat mempengaruhi pola pikir dan berimbas pada kesehatan kita.  Maka dari itu, kita bersama harus mulai menyebarkan fakta dan menampar hoaks. 
+Langkah ini akan menciptakan rasa aman dalam bermedia sosial, bahkan di negara Indonesia yang kita cintai ini.
+.
+.
+Talent : @rosyanashobary 
+Script & 🎥 : @djulsu
+.
+.
+@ccicpolri 
+#cyberpolicefestival2020
+.
+.
+•
+#Policemoviefestival #Film #movie #art #editor #videoeditor #setlife #filmmaker #filmmaking #director #filmming #Studio #Camera #moviefestival";}i:134;a:1:{s:14:"comments_count";i:0;}i:135;a:1:{s:11:"likes_count";i:0;}i:136;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuxkI3joea";}i:137;a:1:{s:5:"image";s:238:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118862978_935573253519223_6620074453316865094_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=107&_nc_ohc=OUEBO_rnft8AX8OJ0Wz&oh=b5e0e06e3c5771ef9b773dd14ba61aa2&oe=5F54FBC8";}i:138;a:1:{s:4:"type";s:5:"video";}i:139;a:1:{s:8:"owner_id";i:2006000608;}i:140;a:1:{s:14:"owner_username";s:0:"";}i:141;a:1:{s:14:"owner_fullname";s:0:"";}i:142;a:1:{s:9:"owner_pic";s:0:"";}i:143;a:1:{s:2:"id";s:19:"2391066596272882586";}i:144;a:1:{s:10:"short_code";s:11:"CEuxmahJcOa";}i:145;a:1:{s:12:"created_time";i:1599257371;}i:146;a:1:{s:7:"caption";s:435:"Action with @birolunel in the German TV series Delta Team many years ago...
+Have a peaceful journey into the other mystery of life - RIP. 
+And thank you for the reminder on how fragile this existence really is : 💎 IMPERMANENCE 💎
+.
+.
+.
+.
+.
+.
+.
+#mysteryoflife #impermanence #lifeisfragile #actors #actorslife🎬 #setlife #prosieben #schauspieler #fellowactors #creativityeveryday #authenticself #restinpeace #tvshow #tvserie #pro7";}i:147;a:1:{s:14:"comments_count";i:1;}i:148;a:1:{s:11:"likes_count";i:3;}i:149;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuxmahJcOa";}i:150;a:1:{s:5:"image";s:249:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118726882_612701625970902_5966312419203353819_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=106&_nc_ohc=ToMjAYm6wHUAX_UH5MD&oh=f4c30974d8a8ad670a09bf3a2a9c65db&oe=5F7BCD4C";}i:151;a:1:{s:4:"type";s:5:"image";}i:152;a:1:{s:8:"owner_id";i:528994158;}i:153;a:1:{s:14:"owner_username";s:0:"";}i:154;a:1:{s:14:"owner_fullname";s:0:"";}i:155;a:1:{s:9:"owner_pic";s:0:"";}i:156;a:1:{s:2:"id";s:19:"2391064545994253368";}i:157;a:1:{s:10:"short_code";s:11:"CEuxIlDBKQ4";}i:158;a:1:{s:12:"created_time";i:1599257355;}i:159;a:1:{s:7:"caption";s:474:"New video vayan al link de mi Bio
+
+Director : @francisfilms_
+
+Music video : @machin_rd
+.
+.
+ #moonlight #logo #movie #efects #makingofmovies #cinema #movies #makingof #camera #filmmaker  #vfx #cinemacamera @movie.effects.vfx #director  #cinematography #directorlife #beauty #beautytips  #shootlife #setlife #mumbai @anuj_samtani @vfxnews • @cgzamir #vfxnews #digitalart #lifeonset  #boltcinebot  #maya #redshift #setlife #vfxartist  #houdinifx #lifeonset #cgi #visualeffect";}i:160;a:1:{s:14:"comments_count";i:2;}i:161;a:1:{s:11:"likes_count";i:5;}i:162;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuxIlDBKQ4";}i:163;a:1:{s:5:"image";s:238:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/118833836_753652565477170_3788204922948067431_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=110&_nc_ohc=wBA7jF3SKiMAX_i4Zjt&oh=0d132f7f4f4a983f70d6634258fce8cc&oe=5F54F79B";}i:164;a:1:{s:4:"type";s:5:"video";}i:165;a:1:{s:8:"owner_id";i:1538629743;}i:166;a:1:{s:14:"owner_username";s:0:"";}i:167;a:1:{s:14:"owner_fullname";s:0:"";}i:168;a:1:{s:9:"owner_pic";s:0:"";}i:169;a:1:{s:2:"id";s:19:"2391065757032161559";}i:170;a:1:{s:10:"short_code";s:11:"CEuxaM6gKEX";}i:171;a:1:{s:12:"created_time";i:1599257271;}i:172;a:1:{s:7:"caption";s:307:"#cinemarent #arri #cinematography #film #filmmaking #setlife #cinematographer #alexa #filmmaker #director #production #camera #directorofphotography #alexamini #dp #onset #arrialexa #photography #cinema #videography #behindthescenes #dop #losangeles #canon #producer #bts #shortfilm #sony #cooke #musicvideo";}i:173;a:1:{s:14:"comments_count";i:0;}i:174;a:1:{s:11:"likes_count";i:1;}i:175;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuxaM6gKEX";}i:176;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118767705_329806995034383_8754449578339448072_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=103&_nc_ohc=bDhNHMi1NegAX95UY6P&oh=9dfb50dd86622fccc780f4aa74c2de72&oe=5F7A6538";}i:177;a:1:{s:4:"type";s:5:"image";}i:178;a:1:{s:8:"owner_id";i:41322300415;}i:179;a:1:{s:14:"owner_username";s:0:"";}i:180;a:1:{s:14:"owner_fullname";s:0:"";}i:181;a:1:{s:9:"owner_pic";s:0:"";}i:182;a:1:{s:2:"id";s:19:"2391064138609967595";}i:183;a:1:{s:10:"short_code";s:11:"CEuxCppBcHr";}i:184;a:1:{s:12:"created_time";i:1599257078;}i:185;a:1:{s:7:"caption";s:95:"Great meeting you yesterday @krystaljae1284 
+I swear you look like one of my cousins! 
+#Setlife";}i:186;a:1:{s:14:"comments_count";i:0;}i:187;a:1:{s:11:"likes_count";i:1;}i:188;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuxCppBcHr";}i:189;a:1:{s:5:"image";s:248:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118781706_370504411021611_519361703411667351_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=103&_nc_ohc=UFHhEQI14TkAX-nHjAm&oh=8ac8b4596a8a459775b2592ee1eca2ca&oe=5F7B3EC9";}i:190;a:1:{s:4:"type";s:7:"sidecar";}i:191;a:1:{s:8:"owner_id";i:413927503;}i:192;a:1:{s:14:"owner_username";s:0:"";}i:193;a:1:{s:14:"owner_fullname";s:0:"";}i:194;a:1:{s:9:"owner_pic";s:0:"";}i:195;a:1:{s:2:"id";s:19:"2391063698686122325";}i:196;a:1:{s:10:"short_code";s:11:"CEuw8P7hJlV";}i:197;a:1:{s:12:"created_time";i:1599257026;}i:198;a:1:{s:7:"caption";s:451:"New video 
+
+Director : @francisfilms_
+
+Music video : @machin_rd
+.
+.
+ #moonlight #logo #movie #efects #makingofmovies #cinema #movies #makingof #camera #filmmaker  #vfx #cinemacamera @movie.effects.vfx #director  #cinematography #directorlife #beauty #beautytips  #shootlife #setlife #mumbai @anuj_samtani @vfxnews • @cgzamir #vfxnews #digitalart #lifeonset  #boltcinebot  #maya #redshift #setlife #vfxartist  #houdinifx #lifeonset #cgi #visualeffect";}i:199;a:1:{s:14:"comments_count";i:0;}i:200;a:1:{s:11:"likes_count";i:5;}i:201;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuw8P7hJlV";}i:202;a:1:{s:5:"image";s:238:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118929110_158906429178984_8720486169547395313_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=100&_nc_ohc=6fTvyqSyrQEAX8Nd3K0&oh=8f7eca3a3155b3c48428a52547e93e7a&oe=5F7B2CA5";}i:203;a:1:{s:4:"type";s:5:"image";}i:204;a:1:{s:8:"owner_id";i:1538629743;}i:205;a:1:{s:14:"owner_username";s:0:"";}i:206;a:1:{s:14:"owner_fullname";s:0:"";}i:207;a:1:{s:9:"owner_pic";s:0:"";}i:208;a:1:{s:2:"id";s:19:"2391063395118889052";}i:209;a:1:{s:10:"short_code";s:11:"CEuw31NgDhc";}i:210;a:1:{s:12:"created_time";i:1599256990;}i:211;a:1:{s:7:"caption";s:499:"Music video "Odyssey" by @legendaryloaf
+Edit  me
+Production Company  @iv.films
+Director  @darkmanxiv
+DP  @god.keye
+Producer  @_christianarmstrong
+
+•
+•
+•
+•
+#filmmaking #film #filmmaker #cinematography #director #cinema #photography #movies #movie #cinematographer #behindthescenes #filmmakers #actor #shortfilm #indiefilm #setlife #filmproduction #films #art #videography #video #videoproduction #production #filmphotography #filming #bts #filmfestival #producer #directorofphotography #bhfyp";}i:212;a:1:{s:14:"comments_count";i:1;}i:213;a:1:{s:11:"likes_count";i:9;}i:214;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuw31NgDhc";}i:215;a:1:{s:5:"image";s:250:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118822895_2706146012932642_5116063514194804433_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=110&_nc_ohc=ONrV_rYEY1IAX-DUDQw&oh=aa2d9e1d193eb2056bc31a40adcc9fbd&oe=5F7D4A13";}i:216;a:1:{s:4:"type";s:5:"image";}i:217;a:1:{s:8:"owner_id";i:778955355;}i:218;a:1:{s:14:"owner_username";s:0:"";}i:219;a:1:{s:14:"owner_fullname";s:0:"";}i:220;a:1:{s:9:"owner_pic";s:0:"";}i:221;a:1:{s:2:"id";s:19:"2391062534515234660";}i:222;a:1:{s:10:"short_code";s:11:"CEuwrTthpdk";}i:223;a:1:{s:12:"created_time";i:1599256887;}i:224;a:1:{s:7:"caption";s:153:"The man behind the camera. You put in that work yesterday 
+Great working with you, look forward to best time. @tavaresgrant 
+#Setlife #Filming #Creatives";}i:225;a:1:{s:14:"comments_count";i:0;}i:226;a:1:{s:11:"likes_count";i:4;}i:227;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuwrTthpdk";}i:228;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118649281_104862514691456_2708736452832056837_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=HiCH9LTQc0UAX9Rp9ek&oh=682ce600258fb22e32b364466f358298&oe=5F7A4FA3";}i:229;a:1:{s:4:"type";s:5:"image";}i:230;a:1:{s:8:"owner_id";i:413927503;}i:231;a:1:{s:14:"owner_username";s:0:"";}i:232;a:1:{s:14:"owner_fullname";s:0:"";}i:233;a:1:{s:9:"owner_pic";s:0:"";}i:234;a:1:{s:2:"id";s:19:"2391062297195213994";}i:235;a:1:{s:10:"short_code";s:11:"CEuwn2sJnSq";}i:236;a:1:{s:12:"created_time";i:1599256859;}i:237;a:1:{s:7:"caption";s:728:"Using a camera slider can greatly enhance your visuals. Allowing the camera to move along a track allows for clean eye-catching effects that significantly increase production quality. Luckily for us @rhinocg continually pushes the bar in this realm and creates some of the best slider and slider accessories on the market!
+.
+Use #focus_fiend to be feautred!
+.
+.
+#cameraporn #behindthescenes #filmmaking #cameracrew #cameradept #filmdirector #cameraoperator #videography #setlife #cameraop #cameralovers #cameralife #videoproductionlife #redepic #redepicdragon #redhelium #reddragon #redscarlet #redmonstro #redgemini #redcamera #redcamerausers #redcameras #reddigitalcinema #redrinema #cameraslider #rhinoslider #rhinocg #slider";}i:238;a:1:{s:14:"comments_count";i:0;}i:239;a:1:{s:11:"likes_count";i:17;}i:240;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuwn2sJnSq";}i:241;a:1:{s:5:"image";s:252:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/118780879_150101540074642_5936802383858326189_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=110&_nc_ohc=eZyTnf_vLxEAX9lTAZp&oh=13609678a1692437c89cc31e41dd3040&oe=5F7B744B";}i:242;a:1:{s:4:"type";s:5:"image";}i:243;a:1:{s:8:"owner_id";i:182190655;}i:244;a:1:{s:14:"owner_username";s:0:"";}i:245;a:1:{s:14:"owner_fullname";s:0:"";}i:246;a:1:{s:9:"owner_pic";s:0:"";}i:247;a:1:{s:2:"id";s:19:"2391061834393417541";}i:248;a:1:{s:10:"short_code";s:11:"CEuwhHrA3dF";}i:249;a:1:{s:12:"created_time";i:1599256804;}i:250;a:1:{s:7:"caption";s:140:"With the #writer & #director @strikemoney1 you a genius my G!! On da set of ♠️👆🏾
+
+#actor
+#setlife
+#tvseries 
+#imdb
+#netflix 
+#hulu";}i:251;a:1:{s:14:"comments_count";i:0;}i:252;a:1:{s:11:"likes_count";i:7;}i:253;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEuwhHrA3dF";}i:254;a:1:{s:5:"image";s:238:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118712187_786385345443856_3826735824523669081_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=104&_nc_ohc=bNwirdCyRE4AX8-B2il&oh=4e91cf5de810bafeea56a69e85a05cca&oe=5F7CB620";}i:255;a:1:{s:4:"type";s:5:"image";}i:256;a:1:{s:8:"owner_id";i:41576701;}i:257;a:1:{s:14:"owner_username";s:0:"";}i:258;a:1:{s:14:"owner_fullname";s:0:"";}i:259;a:1:{s:9:"owner_pic";s:0:"";}}

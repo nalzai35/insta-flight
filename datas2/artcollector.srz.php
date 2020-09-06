@@ -1,0 +1,134 @@
+a:260:{i:0;a:1:{s:2:"id";s:19:"2391016449819018024";}i:1;a:1:{s:10:"short_code";s:11:"CEumMr_lAMo";}i:2;a:1:{s:12:"created_time";i:1599251394;}i:3;a:1:{s:7:"caption";s:460:"ENVOY,
+Oil on Canvas,
+48" x 36", 2019
+
+#abstractart #expressionism #oilpainting #oiloncanvas#art#artistsoninstagram #artforsale #artcollector #contemporaryart #contemporaryartist #contemporaryartcollector #contemporarypainting #newyorkgallery#nyartist#brooklynartist#detroitartist#detroitart #williamsburg #woodstockny #londonart #lagallery #interiordecor#interiordesign#homedecor #kingstonny#hudsonny#hudsonvalleyart#gallerywall#lesgalleries #chelseagalleries";}i:4;a:1:{s:14:"comments_count";i:0;}i:5;a:1:{s:11:"likes_count";i:0;}i:6;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumMr_lAMo";}i:7;a:1:{s:5:"image";s:247:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118710657_343129700427253_794816219088122360_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=101&_nc_ohc=Q3-UD6AnpggAX8qebLY&_nc_tp=18&oh=66c1c951b7307e4d83e4b43b9d2da13a&oe=5F7C139B";}i:8;a:1:{s:4:"type";s:5:"image";}i:9;a:1:{s:8:"owner_id";i:2998315271;}i:10;a:1:{s:14:"owner_username";s:0:"";}i:11;a:1:{s:14:"owner_fullname";s:0:"";}i:12;a:1:{s:9:"owner_pic";s:0:"";}i:13;a:1:{s:2:"id";s:19:"2391016349943906240";}i:14;a:1:{s:10:"short_code";s:11:"CEumLO-jr_A";}i:15;a:1:{s:12:"created_time";i:1599251389;}i:16;a:1:{s:7:"caption";s:205:"#chat #cat #minou #draw #drawing #art #illustration #artist #dessin #crayons #crayonsdecouleur #coloredpencils #pencildrawing #illustrationforkids #childrenbook #forkids #artistic #artgallery #artcollector";}i:17;a:1:{s:14:"comments_count";i:0;}i:18;a:1:{s:11:"likes_count";i:0;}i:19;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumLO-jr_A";}i:20;a:1:{s:5:"image";s:248:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/118770992_351356446020801_2070232745594781995_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=109&_nc_ohc=o7Rb7cfWqaUAX-zDZ_F&_nc_tp=18&oh=563d695e2253442bd239140268bec26d&oe=5F54EEEA";}i:21;a:1:{s:4:"type";s:5:"video";}i:22;a:1:{s:8:"owner_id";i:4158322944;}i:23;a:1:{s:14:"owner_username";s:0:"";}i:24;a:1:{s:14:"owner_fullname";s:0:"";}i:25;a:1:{s:9:"owner_pic";s:0:"";}i:26;a:1:{s:2:"id";s:19:"2391016270830365120";}i:27;a:1:{s:10:"short_code";s:11:"CEumKFTBenA";}i:28;a:1:{s:12:"created_time";i:1599251372;}i:29;a:1:{s:7:"caption";s:307:"#visionaryart #art #artist #drawing #love #photography #artwork #painting #design #illustration #instagood #arte #sketch #artistsoninstagram #fashion #photooftheday #digitalart #music #like #instaart #contemporaryart #artcollector #artcollectors#outsiderartist
+#louvre #artgallery #whitneymuseum #guggenheim";}i:30;a:1:{s:14:"comments_count";i:0;}i:31;a:1:{s:11:"likes_count";i:1;}i:32;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumKFTBenA";}i:33;a:1:{s:5:"image";s:248:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118772579_398517464470576_5546503332454728102_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=104&_nc_ohc=usgrLYyx8MAAX9xObh2&_nc_tp=18&oh=9461d6b37c9956dcfcf775143eb637d3&oe=5F7C98E9";}i:34;a:1:{s:4:"type";s:5:"image";}i:35;a:1:{s:8:"owner_id";i:4193683311;}i:36;a:1:{s:14:"owner_username";s:0:"";}i:37;a:1:{s:14:"owner_fullname";s:0:"";}i:38;a:1:{s:9:"owner_pic";s:0:"";}i:39;a:1:{s:2:"id";s:19:"2391016131127096840";}i:40;a:1:{s:10:"short_code";s:11:"CEumIDMDzYI";}i:41;a:1:{s:12:"created_time";i:1599251356;}i:42;a:1:{s:7:"caption";s:1460:"Seguimos mostrándoles el trabajo del artista Santiago Carrera (@santi_photo)
+Su trabajo y el de 7 artistas más puede verse hasta el 15 de septiembre en la edición Live de @baphoto.oficial.
+.
+Sobre la serie “Naturaleza suspendida” 
+
+En esta serie de fotografías, Santiago Carrera dialoga con la historia del arte, en particular con un género pictórico muy antiguo, vinculado a la centralidad del simple objeto o del objeto simple. A través del arte, se fija para siempre y se vuelve inmortal. La naturaleza muerta que se elige, arregla, organiza para crear una composición formal y cromática, y al mismo tiempo armoniosa y perturbadora. Carrera inmoviliza frutas, verduras, pescado, huevos, desperdicios de comida; al congelarlo, crea una verdadera vida de naturaleza muerta, unida por la fragilidad del momento efímero, y captura el momento en que la superficie de los objetos mantiene esa capa delgada de escarcha que humedece los brillantes colores de la fruta. Un "choque" entre la instantaneidad y la inmortalidad, entre la belleza y la muerte ... ¡pero también un encuentro poético entre la pintura y la fotografía! 
+
+Texto por @valefrei 
+.
+
+#galleryart #photogallery #artfair #photogallery #fineart #contemporaryart #contemporary #photography #nature #photonature #baphotolive #baphoto2020 #baphoto #artcollector #photocollector 
+#artist #stilllife #frozen #frozennature #art #photofair #bodegones #naturalezasuspendida #suspendednature";}i:43;a:1:{s:14:"comments_count";i:0;}i:44;a:1:{s:11:"likes_count";i:0;}i:45;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumIDMDzYI";}i:46;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118841893_128537422243157_6620995088319019036_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=105&_nc_ohc=FjlaFExOzqsAX_xmldu&oh=2a0a254447c42e86681cc0eae8564ae2&oe=5F7CDD85";}i:47;a:1:{s:4:"type";s:5:"image";}i:48;a:1:{s:8:"owner_id";i:29928876531;}i:49;a:1:{s:14:"owner_username";s:0:"";}i:50;a:1:{s:14:"owner_fullname";s:0:"";}i:51;a:1:{s:9:"owner_pic";s:0:"";}i:52;a:1:{s:2:"id";s:19:"2391015884385604242";}i:53;a:1:{s:10:"short_code";s:11:"CEumEdZHtKS";}i:54;a:1:{s:12:"created_time";i:1599251326;}i:55;a:1:{s:7:"caption";s:441:"At it again.. this time I’m practicing on some 8x10 canvases..
+•
+•
+•
+#artist #art #artistsoninstagram #artistsofinstagram #supportartists #newart #abstract #abstractart #abstractpainting #neutral #neutraldecor #neutralart #neutralhome #interiordesign #bohodecor #whitehome #paintingwithrosie #artforsale #artforsalebyartist #artforsaleonline #artforsaleoninstagram #artcollector #artcollecting #modelingpaste #modellingpaste #texture";}i:56;a:1:{s:14:"comments_count";i:0;}i:57;a:1:{s:11:"likes_count";i:0;}i:58;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumEdZHtKS";}i:59;a:1:{s:5:"image";s:249:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118701012_665873850689112_8287384030497721085_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=100&_nc_ohc=15lo-_5JEDgAX9Rkkio&oh=59f47e1ec8bfe8c2bab966c85fcaceae&oe=5F7CB4AB";}i:60;a:1:{s:4:"type";s:5:"image";}i:61;a:1:{s:8:"owner_id";i:40513303006;}i:62;a:1:{s:14:"owner_username";s:0:"";}i:63;a:1:{s:14:"owner_fullname";s:0:"";}i:64;a:1:{s:9:"owner_pic";s:0:"";}i:65;a:1:{s:2:"id";s:19:"2391015861818513551";}i:66;a:1:{s:10:"short_code";s:11:"CEumEIYBFiP";}i:67;a:1:{s:12:"created_time";i:1599251323;}i:68;a:1:{s:7:"caption";s:567:"“I got my ticket for three dollars over the Internet....Are you going to eat that salmon?”
+By New Yorker Cartoonist Leo Cullum. Cartoon licensing, gift merchandise and framed cartoons at www. CartoonCollections.com
+Link in Bio.
+#newyorkercartoonist #leocullumcartoons #newyorkermag #tnycartoons #newyorkercartoons #newyorker #cartoons #cartoon #cartoonist #caption #captions #funny #humor #comedy #jokes #LOL #laughoutloud #laugh #laughter #writing #illustration #artcollector #collectart #collectcartoons #travel #flying #internet #airlines #airplanes #leocullum";}i:69;a:1:{s:14:"comments_count";i:0;}i:70;a:1:{s:11:"likes_count";i:4;}i:71;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumEIYBFiP";}i:72;a:1:{s:5:"image";s:248:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118696692_318558659361167_3640400359561299598_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=111&_nc_ohc=1kVUPP7Naf4AX_se_yR&_nc_tp=18&oh=03a976e1b749f6b584035622f5cd63ad&oe=5F7A8497";}i:73;a:1:{s:4:"type";s:5:"image";}i:74;a:1:{s:8:"owner_id";i:39159622231;}i:75;a:1:{s:14:"owner_username";s:0:"";}i:76;a:1:{s:14:"owner_fullname";s:0:"";}i:77;a:1:{s:9:"owner_pic";s:0:"";}i:78;a:1:{s:2:"id";s:19:"2391015724002369373";}i:79;a:1:{s:10:"short_code";s:11:"CEumCIBiN9d";}i:80;a:1:{s:12:"created_time";i:1599251318;}i:81;a:1:{s:7:"caption";s:205:"#chat #cat #minou #draw #drawing #art #illustration #artist #dessin #crayons #crayonsdecouleur #coloredpencils #pencildrawing #illustrationforkids #childrenbook #forkids #artistic #artgallery #artcollector";}i:82;a:1:{s:14:"comments_count";i:0;}i:83;a:1:{s:11:"likes_count";i:2;}i:84;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumCIBiN9d";}i:85;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/118718065_2692997811016904_2639605249933370568_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=niViuxP-xVkAX_KiPIY&_nc_tp=18&oh=c827c5ec70b8fbed5c3c3f84e8d41bbe&oe=5F551591";}i:86;a:1:{s:4:"type";s:5:"video";}i:87;a:1:{s:8:"owner_id";i:8996599619;}i:88;a:1:{s:14:"owner_username";s:0:"";}i:89;a:1:{s:14:"owner_fullname";s:0:"";}i:90;a:1:{s:9:"owner_pic";s:0:"";}i:91;a:1:{s:2:"id";s:19:"2391015740485816057";}i:92;a:1:{s:10:"short_code";s:11:"CEumCXYBk75";}i:93;a:1:{s:12:"created_time";i:1599251309;}i:94;a:1:{s:7:"caption";s:444:"Black and white
+.
+Pic -@inbetween2lines 
+.
+#inbetween2lines #photography #instaart #back #blouse  #india  #gallery #artcollector #arte #saree #model #lowlight #abstract #fineart #bnw #hot #fineartphotography #beautiful #bnw#design #modelzgalery #kunst #backless #creative #matte #sensual_shots #bhfyp #bold #boudior #sensual @sensual__bnw @boudoirgoddesses @boudoirworld @modelzgalery @persfamous @sensualpearls @portraitszoom @mumbai.portraits";}i:95;a:1:{s:14:"comments_count";i:0;}i:96;a:1:{s:11:"likes_count";i:4;}i:97;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumCXYBk75";}i:98;a:1:{s:5:"image";s:248:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118712610_997136890769471_7579364052409229964_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=111&_nc_ohc=H4Qbx0M4bTsAX-6VVOa&_nc_tp=18&oh=f8c8b7383a9b5dd5f1f0d92af33ca3ce&oe=5F7AF4A3";}i:99;a:1:{s:4:"type";s:5:"image";}i:100;a:1:{s:8:"owner_id";i:8896647883;}i:101;a:1:{s:14:"owner_username";s:0:"";}i:102;a:1:{s:14:"owner_fullname";s:0:"";}i:103;a:1:{s:9:"owner_pic";s:0:"";}i:104;a:1:{s:2:"id";s:19:"2391015730261244159";}i:105;a:1:{s:10:"short_code";s:11:"CEumCN2l7j_";}i:106;a:1:{s:12:"created_time";i:1599251308;}i:107;a:1:{s:7:"caption";s:678:"#artistsfriday
+
+While inspiration can come from  afar, it is however the one that is near that sometimes can have the most significant impact.
+The best way to describe the work of @comedyife is with the "western" slogan- "Take ten steps, turn around and hit the same spot"  That sweet spot is environment conservation- recycling/up cycling through art, spanning fashion, decor, outdoor instalation, assemblages etc...sticking with it even when it wasn't popular.
+
+So its
+
+Ifesinachi Nwanyanwu
+Medium: coffee on mountboard
+Size: 12"/16"
+Year: 2018
+
+#Artistsfriday
+#artistcrush
+#nescafe
+#artcollector
+#oneenvironment
+#upcycling
+#recycling
+#artsy
+#mediablackoutusa
+#supportblackart";}i:108;a:1:{s:14:"comments_count";i:0;}i:109;a:1:{s:11:"likes_count";i:0;}i:110;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumCN2l7j_";}i:111;a:1:{s:5:"image";s:248:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118765781_760940068063272_5557937025766622204_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=100&_nc_ohc=-QIV-nuWZQEAX_aw6UH&_nc_tp=18&oh=1bf542d4bc37f74d0f7dd41e1a063955&oe=5F7D9401";}i:112;a:1:{s:4:"type";s:5:"image";}i:113;a:1:{s:8:"owner_id";i:4497263901;}i:114;a:1:{s:14:"owner_username";s:0:"";}i:115;a:1:{s:14:"owner_fullname";s:0:"";}i:116;a:1:{s:9:"owner_pic";s:0:"";}i:117;a:1:{s:2:"id";s:19:"2391015604414096441";}i:118;a:1:{s:10:"short_code";s:11:"CEumAYphKQ5";}i:119;a:1:{s:12:"created_time";i:1599251293;}i:120;a:1:{s:7:"caption";s:423:"Needed direct natural light on this knock-out serigraph by Italian artist Berto Lardera (1911-1989)...I promise it’s not touching the asphalt 😉. #bertolardera #robertolardera #italianartist #laspezia #abstractart #midcenturymodern #midcentury #20thcenturyart #postmodern #modernart #modernism #primarycolors #serigrafia #serigraphy #serigraph #silkscreen #worksonpaper #artdealer #artcollector #vintageart #printmaking";}i:121;a:1:{s:14:"comments_count";i:0;}i:122;a:1:{s:11:"likes_count";i:2;}i:123;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEumAYphKQ5";}i:124;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118792263_313180106795837_5178188996353315065_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=105&_nc_ohc=SLcBwbRQz1YAX8uLUXz&oh=f0780c129b43ef8939c3caa6c84ca65f&oe=5F7D6C25";}i:125;a:1:{s:4:"type";s:5:"image";}i:126;a:1:{s:8:"owner_id";i:2043555524;}i:127;a:1:{s:14:"owner_username";s:0:"";}i:128;a:1:{s:14:"owner_fullname";s:0:"";}i:129;a:1:{s:9:"owner_pic";s:0:"";}i:130;a:1:{s:2:"id";s:19:"2391015380238635217";}i:131;a:1:{s:10:"short_code";s:11:"CEul9H3npDR";}i:132;a:1:{s:12:"created_time";i:1599251266;}i:133;a:1:{s:7:"caption";s:885:"Tonight September First Friday Spotlight: Darius Quarles premieres at The Centerpiece from 6-9PM! Join us for a chance to meet the artist, socially distanced art appreciation and single serve wine. We can’t wait to see you all this evening! Please note: Social distancing, masks and other procedures will continue to be in effect during this opening. 
+•
+•
+•
+Pictured: “Donoma” by Darius Quarles. 40x33, acrylic on canvas. 
+•
+•
+•
+#raleighgallery #downtownraleigh #fineartframing #designdistrictraleigh #corporateartbuyer #ncarts #ncartist #contemporaryart #abstractart #abstractpainting #artgallery #firstfriday #visitraleigh #stufftodoinraleigh #artexhibition #framing #artoftheday #gallerylife #originalart #modernart #modernhomedecor #artofinteriors #artcollector #raleighartist #thecenterpiecegallery #artforbreakfast #abstractagram #northperson #raleighart #ncart";}i:134;a:1:{s:14:"comments_count";i:0;}i:135;a:1:{s:11:"likes_count";i:0;}i:136;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEul9H3npDR";}i:137;a:1:{s:5:"image";s:260:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118821637_3260512267361980_7120385407220516708_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=104&_nc_ohc=y2mzfqulrjMAX-ffu2M&_nc_tp=15&oh=a433851dd7a7c24a29bab095515ec41e&oe=5F7BBDF0";}i:138;a:1:{s:4:"type";s:5:"image";}i:139;a:1:{s:8:"owner_id";i:1748202059;}i:140;a:1:{s:14:"owner_username";s:0:"";}i:141;a:1:{s:14:"owner_fullname";s:0:"";}i:142;a:1:{s:9:"owner_pic";s:0:"";}i:143;a:1:{s:2:"id";s:19:"2391015075941940385";}i:144;a:1:{s:10:"short_code";s:11:"CEul4seH3yh";}i:145;a:1:{s:12:"created_time";i:1599251230;}i:146;a:1:{s:7:"caption";s:368:"Something a little lighter.a watercolour .FRISBY.
+#art #artist #canadianart #canadianartist #drawingftheday #drawingwithatwist #drawing#expressionism #torontoartist #torontoartscene #torontoart #modernpainters #newyorkart #artcollector  #artcurator #guelph #guelpharts  #guelphartist #drawdrawdraw #watercolour #watercolours #watercolouroftheday  #watercoloursketch";}i:147;a:1:{s:14:"comments_count";i:0;}i:148;a:1:{s:11:"likes_count";i:0;}i:149;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEul4seH3yh";}i:150;a:1:{s:5:"image";s:259:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118765798_782063499033893_9017993092204611961_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=105&_nc_ohc=Se21c9kE514AX93as05&_nc_tp=15&oh=b341f54786cbc3fe67c1a4325af1a98d&oe=5F7D7394";}i:151;a:1:{s:4:"type";s:5:"image";}i:152;a:1:{s:8:"owner_id";i:4148382645;}i:153;a:1:{s:14:"owner_username";s:0:"";}i:154;a:1:{s:14:"owner_fullname";s:0:"";}i:155;a:1:{s:9:"owner_pic";s:0:"";}i:156;a:1:{s:2:"id";s:19:"2391015020986448108";}i:157;a:1:{s:10:"short_code";s:11:"CEul35ShTjs";}i:158;a:1:{s:12:"created_time";i:1599251223;}i:159;a:1:{s:7:"caption";s:395:"Floral mandala design🖤🖤
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. 
+#artwork #art #mandala #artcollector #myart #indianart #indianartist #watercolourart  #inspiration #insta #instagood #instadaily #instagram #mypainting  #abstractart  #india  #love #sketch #sketching #mandalaart #pencilsketch #pencilart #mandala_sharing_ #pen #penart #ilovesharingmandala #artistsoninstagram #creative #flower #floral";}i:160;a:1:{s:14:"comments_count";i:0;}i:161;a:1:{s:11:"likes_count";i:4;}i:162;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEul35ShTjs";}i:163;a:1:{s:5:"image";s:248:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118695968_869315950264621_2732208877368270689_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=101&_nc_ohc=g5Lm9uiFNyUAX8lG6gK&_nc_tp=18&oh=65d7874f2bfbe2d1fbc3aa7d59079ced&oe=5F7B599B";}i:164;a:1:{s:4:"type";s:5:"image";}i:165;a:1:{s:8:"owner_id";i:5597072046;}i:166;a:1:{s:14:"owner_username";s:0:"";}i:167;a:1:{s:14:"owner_fullname";s:0:"";}i:168;a:1:{s:9:"owner_pic";s:0:"";}i:169;a:1:{s:2:"id";s:19:"2391014913429356519";}i:170;a:1:{s:10:"short_code";s:11:"CEul2VHnj_n";}i:171;a:1:{s:12:"created_time";i:1599251210;}i:172;a:1:{s:7:"caption";s:298:"@rosemanuelking @hozier #fbf #hozier VS 2014 #takemetochurch #ninacriedpower #wastelandbaby my #hozierbaby 961😘❤💋💕 #andrewhozierbyrne 🥰💘💞💖💋💕💝❣#happyfriday #illustration #fashionillustration #portrait #artist #artcurator #artcollector #hozierart #artistsoninstagram";}i:173;a:1:{s:14:"comments_count";i:0;}i:174;a:1:{s:11:"likes_count";i:4;}i:175;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEul2VHnj_n";}i:176;a:1:{s:5:"image";s:248:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/118796118_789331061803064_7301490939626382983_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=3ZuUUH9PfXAAX_O-5_I&_nc_tp=18&oh=26ccde1f6488bffa56bc609d9524e4f0&oe=5F7BDE0A";}i:177;a:1:{s:4:"type";s:5:"image";}i:178;a:1:{s:8:"owner_id";i:418908407;}i:179;a:1:{s:14:"owner_username";s:0:"";}i:180;a:1:{s:14:"owner_fullname";s:0:"";}i:181;a:1:{s:9:"owner_pic";s:0:"";}i:182;a:1:{s:2:"id";s:19:"2391014847403065140";}i:183;a:1:{s:10:"short_code";s:11:"CEul1XoJP80";}i:184;a:1:{s:12:"created_time";i:1599251202;}i:185;a:1:{s:7:"caption";s:392:"I like all mediums of art, and #scrapbooking is one of them
+
+#artshow #freedom
+#art #abstractart #painting #colorful #painting🎨 #abstractpainting #colorfulpainting #original #painthowyoufeel #gallery #artgallery #canvaspainting #oneofaking #lovetopaint #artwork #makeyourmark #contemporaryart #artist
+#artwork 
+#artisfun
+#arts_help
+#artdiscover
+#artcollector
+#dailyart
+#art_daily
+#artistic";}i:186;a:1:{s:14:"comments_count";i:0;}i:187;a:1:{s:11:"likes_count";i:4;}i:188;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEul1XoJP80";}i:189;a:1:{s:5:"image";s:259:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118767009_358010148565298_6008331612346858106_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=102&_nc_ohc=ZLn3q7TA4oQAX85tJMu&_nc_tp=15&oh=c02d43a72005419968f79a75d40c3e92&oe=5F7CB82A";}i:190;a:1:{s:4:"type";s:5:"image";}i:191;a:1:{s:8:"owner_id";i:40408368495;}i:192;a:1:{s:14:"owner_username";s:0:"";}i:193;a:1:{s:14:"owner_fullname";s:0:"";}i:194;a:1:{s:9:"owner_pic";s:0:"";}i:195;a:1:{s:2:"id";s:19:"2391014809308805923";}i:196;a:1:{s:10:"short_code";s:11:"CEul00JjLsj";}i:197;a:1:{s:12:"created_time";i:1599251198;}i:198;a:1:{s:7:"caption";s:912:"~~~~~~~~~~~~~~~
+Light and shadows,
+Silence and cries,
+Presences and omissions,
+Where the body is incomplete and fragmented,
+Where the self is repeatedly assaulted and wounded,
+Where the lost or fallen identity cannot be found,
+Where darkness, shadow and turbulence, bring light to loss,
+Where blindness and the unseen bring forth remnants of the past,
+Where emptiness of both the landscape and ourselves are forsaken when we forsake.
+
+‘This is not Wonderland’ 2018
+Oil on linen
+H76cm x W152cm
+
+© Megan Seres
+____________________________________________
+.
+.
+.
+.
+.
+#figurative #art #contemporaryart #painting #figurativeart #artist #drawing #artwork #fineart #portrait #oilpainting #artgallery #figurativepainting #arte #modernart #artcollector #contemporarypainting #instaart #gallery #artoftheday #contemporary #sculpture #illustration #artistsoninstagram #sketch #abstractart #kunst #artstudio #draw #bhfyp";}i:199;a:1:{s:14:"comments_count";i:0;}i:200;a:1:{s:11:"likes_count";i:13;}i:201;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEul00JjLsj";}i:202;a:1:{s:5:"image";s:249:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118793909_2508862849404414_7306134299319271939_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=106&_nc_ohc=kLUeaylQ2H4AX_CVpgY&_nc_tp=18&oh=4cd60419e56edba85186eeb215e2fcfa&oe=5F7DE7FB";}i:203;a:1:{s:4:"type";s:5:"image";}i:204;a:1:{s:8:"owner_id";i:1653169410;}i:205;a:1:{s:14:"owner_username";s:0:"";}i:206;a:1:{s:14:"owner_fullname";s:0:"";}i:207;a:1:{s:9:"owner_pic";s:0:"";}i:208;a:1:{s:2:"id";s:19:"2391014742510823390";}i:209;a:1:{s:10:"short_code";s:11:"CEulz18FGfe";}i:210;a:1:{s:12:"created_time";i:1599251190;}i:211;a:1:{s:7:"caption";s:919:"Lucien Sève (Dec 9, 1926 – Mar 23, 2020) French philosopher, communist and political activist. He was an active member of the French Communist Party from 1950 to 2010. His 1969 work "Marxisme et théorie de la personnalité (Marxism and theory of personality)" has been translated into 25 different languages.
+/////////////////
+Since the lockdown in March, I’ve been having personal conversations with art and cultural professionals who passed away from the COVID-19. This routine has become memories, which we carry them together…with hope of the new Birth. ——————— “Untitled”, 2020 (work in progress)  Charcoal, turmeric, salt, and vinegar on paper , 9" x 12" ———————— #artoftheday #drawing#contemporary #contemporaryart#artcollector #artcollection#drawingaday #stayhomeandcreate#stayhomeandmakeart#todaysartreport #studioscenes#nyart#artinamerica#covid19#pandemiclife";}i:212;a:1:{s:14:"comments_count";i:0;}i:213;a:1:{s:11:"likes_count";i:3;}i:214;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEulz18FGfe";}i:215;a:1:{s:5:"image";s:238:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e15/118763214_603469953671252_4840935837570936529_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=D22jozPtWCYAX-rtVs_&oh=1ddb67fe8e7f0168f678e06e61fb3837&oe=5F7C1FB8";}i:216;a:1:{s:4:"type";s:5:"image";}i:217;a:1:{s:8:"owner_id";i:401760892;}i:218;a:1:{s:14:"owner_username";s:0:"";}i:219;a:1:{s:14:"owner_fullname";s:0:"";}i:220;a:1:{s:9:"owner_pic";s:0:"";}i:221;a:1:{s:2:"id";s:19:"2391014702439060598";}i:222;a:1:{s:10:"short_code";s:11:"CEulzQnndR2";}i:223;a:1:{s:12:"created_time";i:1599251185;}i:224;a:1:{s:7:"caption";s:342:"#neoexpressionism#figurativeart#contemporarypaintings#expressiveart#artforsale#originalart#
+expressionism#contemporaryartwork#figurativepainting#artgallery#italianartist#mixedmediaartist#artcollector#artbrut#contemporaryartcollector#fineartpainting#artcurators#artgalleries#artbuyers#emergingartist#artdealers#mixdmediaart#contemporaryartist#";}i:225;a:1:{s:14:"comments_count";i:0;}i:226;a:1:{s:11:"likes_count";i:6;}i:227;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEulzQnndR2";}i:228;a:1:{s:5:"image";s:248:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118779603_198910401588461_166566201253161735_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=105&_nc_ohc=7IU0almPYjoAX-RXCM4&oh=bfd2d6d66af122f02755df50b2d87acf&oe=5F7E142F";}i:229;a:1:{s:4:"type";s:5:"image";}i:230;a:1:{s:8:"owner_id";i:4260387418;}i:231;a:1:{s:14:"owner_username";s:0:"";}i:232;a:1:{s:14:"owner_fullname";s:0:"";}i:233;a:1:{s:9:"owner_pic";s:0:"";}i:234;a:1:{s:2:"id";s:19:"2391014666367060009";}i:235;a:1:{s:10:"short_code";s:11:"CEulyvBjsgp";}i:236;a:1:{s:12:"created_time";i:1599251181;}i:237;a:1:{s:7:"caption";s:912:"~~~~~~~~~~~~~~~
+Light and shadows,
+Silence and cries,
+Presences and omissions,
+Where the body is incomplete and fragmented,
+Where the self is repeatedly assaulted and wounded,
+Where the lost or fallen identity cannot be found,
+Where darkness, shadow and turbulence, bring light to loss,
+Where blindness and the unseen bring forth remnants of the past,
+Where emptiness of both the landscape and ourselves are forsaken when we forsake.
+
+‘This is not Wonderland’ 2018
+Oil on linen
+H76cm x W152cm
+
+© Megan Seres
+____________________________________________
+.
+.
+.
+.
+.
+#figurative #art #contemporaryart #painting #figurativeart #artist #drawing #artwork #fineart #portrait #oilpainting #artgallery #figurativepainting #arte #modernart #artcollector #contemporarypainting #instaart #gallery #artoftheday #contemporary #sculpture #illustration #artistsoninstagram #sketch #abstractart #kunst #artstudio #draw #bhfyp";}i:238;a:1:{s:14:"comments_count";i:0;}i:239;a:1:{s:11:"likes_count";i:15;}i:240;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEulyvBjsgp";}i:241;a:1:{s:5:"image";s:248:"https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/118863688_188454245994337_2213010508247872363_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=101&_nc_ohc=SwZL6HV2rSYAX8yJXnc&_nc_tp=18&oh=5c954bddc77c790ef36555e7246c8d4b&oe=5F7D56BE";}i:242;a:1:{s:4:"type";s:5:"image";}i:243;a:1:{s:8:"owner_id";i:1653169410;}i:244;a:1:{s:14:"owner_username";s:0:"";}i:245;a:1:{s:14:"owner_fullname";s:0:"";}i:246;a:1:{s:9:"owner_pic";s:0:"";}i:247;a:1:{s:2:"id";s:19:"2391014654775073089";}i:248;a:1:{s:10:"short_code";s:11:"CEulykOnxlB";}i:249;a:1:{s:12:"created_time";i:1599251180;}i:250;a:1:{s:7:"caption";s:417:"Progress in painting. Project with @scandinavianhunks , model @matiashunk .
+Oil on canvas.
+#art #artlife #arte #artist #artgallery #taide #kunst #instaart #contemporaryart #artcollective #artcollector #painting #pintura #zlenko_art #picture #scandinavianhunks #model #finland #canvasart #portraitpainting #portraitart #portraitcommission #искусство #живопись #арт #модель #художник #";}i:251;a:1:{s:14:"comments_count";i:0;}i:252;a:1:{s:11:"likes_count";i:10;}i:253;a:1:{s:4:"link";s:39:"https://www.instagram.com/p/CEulykOnxlB";}i:254;a:1:{s:5:"image";s:249:"https://scontent-sin6-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118737435_772572313523240_3103573374232285551_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=MPtRzx8j490AX-a7WY_&oh=59f618213d41202c799438cf98f1dfec&oe=5F7DE54D";}i:255;a:1:{s:4:"type";s:7:"sidecar";}i:256;a:1:{s:8:"owner_id";i:4039238620;}i:257;a:1:{s:14:"owner_username";s:0:"";}i:258;a:1:{s:14:"owner_fullname";s:0:"";}i:259;a:1:{s:9:"owner_pic";s:0:"";}}
