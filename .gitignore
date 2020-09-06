@@ -1,6 +1,10 @@
 vendor/
+datas/
+datas2/
+cache/
 datas/*
 datas2/*
+cache/*
 .vscode
 .DS_Store
 insta-flight.zip
