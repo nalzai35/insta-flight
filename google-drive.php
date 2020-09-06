@@ -105,5 +105,3 @@ function get_files_and_folders(){
     }
     echo "</ul>";
 }
-
-var_dump(create_folder('coba permata'));
