@@ -4,7 +4,7 @@ require "vendor/autoload.php";
 
 use duncan3dc\Laravel\BladeInstance;
 
-$path_data = "/datas2/";
+$path_data = "/datas/";
 
 function home_url() {
 	if (php_sapi_name() == "cli") {
